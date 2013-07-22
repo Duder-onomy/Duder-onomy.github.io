@@ -1,0 +1,7 @@
+.biggest-triangle {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-image: url('images/triangle.png');
+  background-size: cover;
+}
